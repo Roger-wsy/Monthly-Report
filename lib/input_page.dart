@@ -51,7 +51,7 @@ class _InputPageState extends State<InputPage> {
   @override
   Widget build(BuildContext context) => Scaffold(
         appBar: AppBar(
-          title: Text('Add User'),
+          title: Text('User Input'),
         ),
         body: ListView(
           padding: EdgeInsets.all(16),
